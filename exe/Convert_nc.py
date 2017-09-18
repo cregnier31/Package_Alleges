@@ -1,17 +1,19 @@
 #!/usr/bin/python
 ## Program to convert lighout file in netcdf
-##
+## C.REGNIER  2017
 import subprocess,shlex 
 import sys,os
 
 if len(sys.argv) != 2 :
     print 'Usage: Convert_nc.py <filename> '
     print 'example: python Convert_nc.py TN.B.d20130925.end.50.0'
+    print 'example: python Convert_nc.py TN.B.d20130925.end.75.0'
     sys.exit(1)
 else :
     filename=sys.argv[1]
 
-meshfile="/home/cregnier/DEV/Read_ALLEGES/statics/coord_PSY4.nc"
+#meshfile="/home/cregnier/DEV/Read_ALLEGES/statics/coord_PSY4.nc"
+meshfile="/home/cregnier/DEV/Read_ALLEGES/statics/coord_PSY3.nc"
 resol="3D"
 sampling="3"
 filename_tmp=filename.split('.')[0]
