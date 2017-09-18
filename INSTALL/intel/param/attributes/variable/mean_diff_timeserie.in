@@ -1,0 +1,14 @@
+&nb_att
+    il_nbatt = 5
+    cl_varname='mean_diff_timeserie'
+/
+long_name          = 
+mean_diff_timeserie
+standard_name      = 
+mean_diff
+_FillValue         =
+fillvalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue

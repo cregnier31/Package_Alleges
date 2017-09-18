@@ -1,0 +1,16 @@
+# PGF90:
+#COMPILE=/home/mercator/versions64/pgi/8.0-3/linux86-64/8.0-3/bin/pgf90
+COMPILE=/opt/pgi/linux86-64/7.1-2/bin/pgf90
+AR = ar
+FLAGS= -O -O2 -w -byteswapio -r4
+NETCDF=/opt/netcdf/3.6.2_pgi712_gcc_r4
+LIBPATH = ${NETCDF}/lib
+LIB_MFT=libmft.a
+AR=ar -rv
+LIBNETCDF = netcdf
+INCLUDE = -I${NETCDF}/include
+DIR_MFT=/home/spsy/spsy003/dev/LIB/V3.1
+LIB_DIR=${DIR_MFT}/lib
+SRCDIR =.
+paramPath=${DIR_MFT}/param
+INC_DIR=${DIR_MFT}/include

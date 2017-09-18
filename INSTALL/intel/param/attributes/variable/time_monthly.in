@@ -1,0 +1,12 @@
+&nb_att
+    il_nbatt = 4
+    cl_varname= 'time_monthly'
+/
+calendar           = 
+standard
+long_name          = 
+Time
+units              = 
+seconds since 1950-01-01 00:00:00
+axis               =
+T

@@ -1,0 +1,29 @@
+&nb_att
+     il_nbatt = 12
+     cl_varname = 'taux'
+/
+long_name          = 
+Wind stress eastward component
+standard_name      = 
+surface_downward_x_stress
+units              = 
+Pa
+unit_long          = 
+Pascal
+add_offset         =
+offsetvalue
+scale_factor       =
+scalevalue
+_FillValue         =
+fillvalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+grid_mapping       =
+polar_stereographic
+coordinates        =
+longitude latitude
+cell_methods       =
+area: mean
+

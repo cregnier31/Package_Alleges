@@ -1,0 +1,7 @@
+&equival
+     cl_varname_out = 'kz'
+     rl_coeff = 1.0
+     rl_min=-7
+     rl_max=-1
+     rl_offset = 0
+/

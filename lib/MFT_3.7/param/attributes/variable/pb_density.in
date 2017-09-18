@@ -1,0 +1,12 @@
+&nb_att
+    il_nbatt = 4
+    cl_varname = 'pb_density'
+/
+long_name          = 
+pb with density gradient
+standard_name      = 
+pb_density
+units              = 
+boolean
+_FillValue         =
+fillvalue

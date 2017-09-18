@@ -1,0 +1,7 @@
+&equival
+     cl_varname_out = 'qtotair'
+     rl_coeff = 1.0
+     rl_min = -2000
+     rl_max = 2000
+     rl_offset = 0
+/

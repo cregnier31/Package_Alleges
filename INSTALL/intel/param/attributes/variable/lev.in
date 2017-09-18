@@ -1,0 +1,13 @@
+&nb_att
+    il_nbatt = 5 
+/
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+long_name          = 
+level
+standard_name      = 
+level
+axis               =
+Z

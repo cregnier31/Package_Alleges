@@ -1,0 +1,25 @@
+&nb_att
+     il_nbatt = 10
+     cl_varname = 'tauy'
+/
+long_name          = 
+Wind stress northward component
+standard_name      = 
+surface_downward_northward_stress
+units              = 
+Pa
+unit_long          = 
+Pascal
+add_offset         =
+offsetvalue
+scale_factor       =
+scalevalue
+_FillValue         =
+fillvalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+cell_methods       =
+area: mean
+

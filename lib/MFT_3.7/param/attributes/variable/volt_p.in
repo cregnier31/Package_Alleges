@@ -1,0 +1,17 @@
+&nb_att
+    il_nbatt = 7
+/
+standard_name      =
+ocean_volume_transport_across_line
+long_name          = 
+Positive ovean volume transport across section
+units              = 
+m3 s-1
+scale_factor       =
+1.0E6
+comment            =
+by not applying scale_factor values are readable in Sverdrup
+positive           =
+down
+_FillValue         =
+fillvalue

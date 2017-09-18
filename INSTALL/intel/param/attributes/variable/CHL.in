@@ -1,0 +1,24 @@
+&nb_att
+     il_nbatt = 10
+     cl_varname = 'CHL'
+/
+long_name          = 
+Mass Concentration of Chlorophyll in Sea Water
+standard_name      = 
+mass_concentration_of_chlorophyll_in_sea_water
+units              = 
+mg/m^3
+unit_long          =
+milligram of Chlorophyll per cubic meter
+_FillValue         =
+fillvalue
+add_offset         =
+offsetvalue
+scale_factor       =
+scalevalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+cell_methods       =
+area: mean

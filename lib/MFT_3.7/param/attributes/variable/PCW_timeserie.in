@@ -1,0 +1,12 @@
+&nb_att
+    il_nbatt = 4
+    cl_varname='PCW_timeserie'
+/
+long_name          = 
+Proportion_correct_water_in_timeserie
+_FillValue         =
+fillvalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue

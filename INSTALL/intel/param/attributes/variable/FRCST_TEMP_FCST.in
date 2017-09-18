@@ -1,0 +1,19 @@
+&nb_att
+    il_nbatt = 6
+    cl_varname='first_frcst_temp'
+/
+long_name          = 
+Forecast in temperature for the first trajectory
+standard_name      = 
+Guess_first_trajectory
+_FillValue         =
+fillvalue
+units              = 
+degree_Celsius
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+comment            = 
+forecast variable 
+

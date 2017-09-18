@@ -1,0 +1,18 @@
+&nb_att
+    il_nbatt = 7 
+    cl_varname= 'sla_gauge'
+/
+long_name          = 
+sea surface height
+standard_name      = 
+sea_surface_elevation
+units              = 
+m
+unit_long          = 
+Meters
+_FillValue         =
+fillvalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue

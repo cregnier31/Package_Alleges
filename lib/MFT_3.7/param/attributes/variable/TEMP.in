@@ -1,0 +1,24 @@
+&nb_att
+     il_nbatt = 10
+     cl_varname = 'TEMP'
+/
+long_name          = 
+Temperature
+standard_name      = 
+sea_water_insitu_temperature
+units              = 
+°C
+unit_long          =
+Delgree_celsius
+_FillValue         =
+fillvalue
+add_offset         =
+offsetvalue
+scale_factor       =
+scalevalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+comment       =
+In situ measurement

@@ -1,0 +1,4 @@
+&equival
+     cl_varname_out = 'time_counter'
+     rl_coeff = 1.0
+/

@@ -1,0 +1,12 @@
+&nb_att
+    il_nbatt = 4
+    cl_varname = 'density'
+/
+long_name          = 
+Density
+standard_name      = 
+sea_water_sigma_theta
+units              = 
+kg m-3
+_FillValue         =
+fillvalue

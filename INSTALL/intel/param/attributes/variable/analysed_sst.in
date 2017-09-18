@@ -1,0 +1,20 @@
+&nb_att
+    il_nbatt = 8
+    cl_varname = 'analysed_sst'
+/
+long_name          = 
+analyzed sea surface temperature
+units              =
+degree_C
+scale_factor       = 
+scalevalue
+add_offset         =
+offsetvalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+missing_value      = 
+missvalue
+_FillValue         =
+fillvalue

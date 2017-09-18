@@ -1,0 +1,24 @@
+&nb_att
+     il_nbatt = 10
+     cl_varname = 'PN'
+/
+long_name          = 
+PNnano
+standard_name      = 
+PN
+units              = 
+molC/m3
+unit_long          =
+molC/m3
+_FillValue         =
+fillvalue
+add_offset         =
+offsetvalue
+scale_factor       =
+scalevalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+cell_methods       =
+area: mean

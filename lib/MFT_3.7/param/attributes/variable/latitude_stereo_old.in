@@ -1,0 +1,20 @@
+&nb_att
+    il_nbatt = 8
+    cl_varname='latitude'
+/
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+units              = 
+degrees_north
+unit_long          = 
+Degrees North
+long_name          = 
+Latitude
+standard_name      = 
+latitude
+_FillValue         =
+fillvalue
+axis               =
+Y

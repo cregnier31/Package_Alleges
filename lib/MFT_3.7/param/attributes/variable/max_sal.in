@@ -1,0 +1,12 @@
+&nb_att
+    il_nbatt = 4
+    cl_varname = 'max_sal'
+/
+long_name          = 
+maximum of salinity in the water column
+standard_name      = 
+max_sal
+units              = 
+psu
+_FillValue         =
+fillvalue

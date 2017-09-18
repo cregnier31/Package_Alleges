@@ -1,0 +1,25 @@
+&nb_att
+     il_nbatt = 10
+     cl_varname = 'mlotst'
+/
+long_name          = 
+Density ocean mixed layer thickness
+standard_name      = 
+ocean_mixed_layer_thickness_defined_by_sigma_theta
+units              = 
+m
+unit_long          = 
+Meters
+add_offset         =
+offsetvalue
+scale_factor       =
+scalevalue
+_FillValue         =
+fillvalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+cell_methods       =
+area: mean
+

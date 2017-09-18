@@ -1,0 +1,17 @@
+&nb_att
+    il_nbatt = 6
+    cl_varname='HDCST_DEPH'
+/
+long_name          = 
+Insitu_depth_value_to_compare
+_FillValue         =
+fillvalue
+units              = 
+meters
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+comment            = 
+Hindcast profile
+

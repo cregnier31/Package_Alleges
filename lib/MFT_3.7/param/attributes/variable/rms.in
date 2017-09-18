@@ -1,0 +1,16 @@
+&nb_att
+    il_nbatt = 6
+    cl_varname='rms'
+/
+long_name          = 
+root mean square
+standard_name      = 
+root_mean_square
+missing_value      =
+missvalue
+_FillValue         =
+fillvalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue

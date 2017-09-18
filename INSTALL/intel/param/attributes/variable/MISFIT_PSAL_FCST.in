@@ -1,0 +1,17 @@
+&nb_att
+    il_nbatt = 6
+    cl_varname='misfit_psal_fcst'
+/
+long_name          = 
+misfit in salinity for the first trajectory
+standard_name      = 
+Salinity_innovation
+_FillValue         =
+fillvalue
+units              = 
+degree_Celsius
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+

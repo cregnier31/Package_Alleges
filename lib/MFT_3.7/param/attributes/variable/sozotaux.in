@@ -1,0 +1,28 @@
+&nb_att
+    il_nbatt = 12
+    cl_varname='sozotaux'
+/
+units              = 
+N/m2
+missing_value      =
+missvalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+add_offset         =
+offsetvalue
+scale_factor       =
+scalevalue
+long_name          = 
+Zonal Wind Stress
+standard_name      =
+sea_water_downward_x_stress
+short_name         =
+sozotaux
+online_operation   =
+N/A
+axis               =
+TYX
+associate          =
+associate

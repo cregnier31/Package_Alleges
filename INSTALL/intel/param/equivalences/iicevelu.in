@@ -1,0 +1,7 @@
+&equival
+     cl_varname_out = 'uice'
+     rl_coeff = 1.0
+     rl_min = -1
+     rl_max = 1
+     rl_offset = 0
+/

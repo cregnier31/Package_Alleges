@@ -1,0 +1,25 @@
+&nb_att
+     il_nbatt = 10
+     cl_varname = 'qsr'
+/
+long_name          = 
+Surface downward solar heat flux
+standard_name      = 
+surface_net_downward_shortwave_flux
+units              = 
+W m-2
+unit_long          = 
+Watt per square meter
+add_offset         =
+offsetvalue
+scale_factor       =
+scalevalue
+_FillValue         =
+fillvalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+cell_methods       =
+area: mean
+

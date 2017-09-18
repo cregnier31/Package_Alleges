@@ -1,0 +1,15 @@
+&nb_att
+    il_nbatt = 5
+    cl_varname = 'TMMIM'
+/
+_FillValue         =
+fillvalue
+long_name          = 
+Monthly Clim MIMOC temperature
+units              = 
+degree_Celsius
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+

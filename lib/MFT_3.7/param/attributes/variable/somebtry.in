@@ -1,0 +1,28 @@
+&nb_att
+    il_nbatt = 12 
+    cl_varname = 'somebtry'
+/
+units              = 
+m/s
+missing_value      =
+missvalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+add_offset         =
+offsetvalue
+scale_factor       =
+scalevalue
+long_name          = 
+Meridional Surface Velocity
+standard_name      =
+sea_water_y_surface_velocity
+short_name         =
+somecrty
+online_operation   =
+N/A
+axis               =
+TZYX
+associate          =
+associate

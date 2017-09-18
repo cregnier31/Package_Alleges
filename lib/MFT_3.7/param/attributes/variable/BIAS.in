@@ -1,0 +1,12 @@
+&nb_att
+    il_nbatt = 4
+    cl_varname='BIAS'
+/
+long_name          = 
+Frequency_bias
+_FillValue         =
+fillvalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue

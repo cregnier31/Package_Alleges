@@ -1,0 +1,20 @@
+&nb_att
+    il_nbatt = 8
+    cl_varname= 'time'
+/
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+calendar           = 
+gregorian
+long_name          = 
+Time (hours since 1950-01-01)
+standard_name      = 
+time
+units              = 
+hours since 1950-01-01 00:00:00
+_FillValue         =
+fillvalue
+axis               =
+T

@@ -1,0 +1,21 @@
+&nb_att
+    il_nbatt = 8
+    cl_varname='ANA_TEMP'
+/
+long_name          = 
+MERCATOR-GLOBAL TEMPERATURE
+_FillValue         =
+fillvalue
+units              = 
+degree_Celsius
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+comment            = 
+Nowcast profile
+C_format           = 
+%9.3f
+FORTRAN_format     = 
+F9.3
+

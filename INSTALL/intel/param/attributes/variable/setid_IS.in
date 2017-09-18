@@ -1,0 +1,8 @@
+&nb_att
+    il_nbatt = 2
+    cl_varname='setid_IS'
+/
+long_name          = 
+id of DUPIS data
+standard_name      = 
+setid

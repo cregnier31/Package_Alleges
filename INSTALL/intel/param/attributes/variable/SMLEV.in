@@ -1,0 +1,15 @@
+&nb_att
+    il_nbatt = 5
+    cl_varname ='SMLEV' 
+/
+_FillValue         =
+fillvalue
+long_name          = 
+Monthly Levitus salinity
+units              = 
+psu
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+

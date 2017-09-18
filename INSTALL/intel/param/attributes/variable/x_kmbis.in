@@ -1,0 +1,10 @@
+&nb_att
+    il_nbatt = 3
+    cl_varname ='x'
+/
+axis =
+X
+standard_name      = 
+projection_x_coordinate
+units              = 
+km

@@ -1,0 +1,24 @@
+&nb_att
+     il_nbatt = 10
+     cl_varname = 't_diff'
+/
+long_name          = 
+Objectively analyzed mean fields for sea_water_temperature at standard depth levels.
+standard_name      = 
+sea_water_temperature temp diff
+units              = 
+°C
+unit_long          =
+degrees_celsius
+_FillValue         =
+fillvalue
+add_offset         =
+offsetvalue
+scale_factor       =
+scalevalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+cell_methods       =
+area: mean

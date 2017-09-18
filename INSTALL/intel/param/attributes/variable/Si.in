@@ -1,0 +1,24 @@
+&nb_att
+     il_nbatt = 10
+     cl_varname = 'Si'
+/
+long_name          = 
+Mole Concentration of Silicate in Sea Water
+standard_name      = 
+mole_concentration_of_silicate_in_sea_water
+units              = 
+mmol/m^3
+unit_long          =
+millimoles of Silicate per cubic meter
+_FillValue         =
+fillvalue
+add_offset         =
+offsetvalue
+scale_factor       =
+scalevalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+cell_methods       =
+area: mean

@@ -1,0 +1,12 @@
+&nb_att
+    il_nbatt = 4
+    cl_varname= 'max_dens_at_maxS'
+/
+long_name          = 
+maximum of density at the max of salinity in the water column
+standard_name      = 
+max_dens_at_maxS
+units              = 
+kg m-3
+_FillValue         =
+fillvalue

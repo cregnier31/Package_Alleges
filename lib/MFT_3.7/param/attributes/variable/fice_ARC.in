@@ -1,0 +1,28 @@
+&nb_att
+    il_nbatt = 12
+    cl_varname = 'fice'
+/
+long_name          = 
+Ice concentration
+standard_name      = 
+sea_ice_area_fraction
+units              =
+1
+unit_long         =
+Fraction
+add_offset         =
+offsetvalue
+scale_factor       =
+scalevalue
+_FillValue         =
+fillvalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+grid_mapping       =
+polar_stereographic
+coordinates        =
+longitude latitude
+cell_methods       =
+area: mean where sea_ice

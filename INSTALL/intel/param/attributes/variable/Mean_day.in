@@ -1,0 +1,10 @@
+&nb_att
+    il_nbatt = 3
+    cl_varname= 'Mean_day'
+/
+long_name          = 
+Mean day of a month
+standard_name      = 
+Mean_day
+_FillValue         =
+fillvalue

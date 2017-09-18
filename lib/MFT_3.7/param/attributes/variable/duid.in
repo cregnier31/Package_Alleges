@@ -1,0 +1,8 @@
+&nb_att
+    il_nbatt = 2
+    cl_varname='duid'
+/
+long_name          = 
+id of the profile
+standard_name      = 
+duid

@@ -1,0 +1,11 @@
+&nb_att
+    il_nbatt = 3
+    cl_varname = 'mask_arc'
+
+/
+long_name          = 
+mask
+standard_name      = 
+mask
+_FillValue         =
+fillvalue

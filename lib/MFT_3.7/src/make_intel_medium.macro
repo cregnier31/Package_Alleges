@@ -1,0 +1,30 @@
+## macro pour intel 
+# C.REGNIER 2010
+# MFT Directories 
+SRCDIR=.
+MFT_DIR=/home/cregnier/SVN/mo/mo/LIB/LIB_MFT/branches/V3.4
+INC_DIR=${MFT_DIR}/include
+LIB_DIR=${MFT_DIR}/lib
+PARAM_DIR=${MFT_DIR}/param
+
+# Namelist Pre-Processing 
+FICHIER=${MFT_DIR}/src/MIOL_param.F90
+#
+param1=cp_miolParameterPath
+param2=cp_miolParameterFile
+
+# Install Directory  
+INSTALL_DIR=/home/cregnier/LIB/MFT3.4/intel_medium/
+PARAM_DIR_INSTALL=${INSTALL_DIR}/param
+TMP_NAMELIST=${MFT_DIR}/miolParameterPaths.nml
+NAMELIST=${INSTALL_DIR}/include/miolParameterPaths.nml
+# NETCDF Directory
+#NETCDF_DIR=$(NETCDF_DIR)
+#NETCDF_INC=$(NETCDF_DIR)/include
+
+# Compiling Flags
+FC=ifort
+FFLAGS=-O3 -convert big_endian -I${NETCDF_INC} -real-size 64 -mcmodel=medium -shared-intel  
+FFLAGS=-O3 -convert big_endian -I${NETCDF_INC} -real-size 64 -mcmodel=medium #-shared-intel  
+AR=ar -rv
+CPP_KEYS= -DKey_Byte

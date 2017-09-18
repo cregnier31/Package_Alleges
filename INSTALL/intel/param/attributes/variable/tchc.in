@@ -1,0 +1,20 @@
+&nb_att
+    il_nbatt = 8
+    cl_varname = 'tchc'
+/
+long_name          = 
+Tropical Cyclone Heat Content until 26C isotherm
+standard_name      = 
+integral_of_sea_water_potential_temperature_wrt_depth26C_expressed_as_heat_content
+units              = 
+kJ/cm2
+unit_long          = 
+Kilo Joule by centimeter square
+missing_value      =
+missvalue
+_FillValue         =
+fillvalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue

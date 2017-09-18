@@ -1,0 +1,16 @@
+&nb_att
+    il_nbatt = 6
+    cl_varname= 'time_DS'
+/
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+long_name          = 
+Time (seconds since 1950-01-01)
+standard_name      = 
+time
+units              = 
+seconds since 1950-01-01 00:00:00
+time_origin        =
+1950-JAN-01 00:00:00

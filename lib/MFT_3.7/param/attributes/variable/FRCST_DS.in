@@ -1,0 +1,15 @@
+&nb_att
+    il_nbatt = 5
+    cl_varname='frcst_DS'
+/
+long_name          = 
+FORECAST_DS
+_FillValue         =
+fillvalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+comment            = 
+forecast direct scalar variable 
+

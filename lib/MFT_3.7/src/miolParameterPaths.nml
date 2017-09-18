@@ -1,0 +1,6 @@
+&miolParameterPaths
+cl_equivalencesPath='../../../INSTALL/intel/param/equivalences/'
+cl_globalAttributesPath='../../../INSTALL/intel/param/attributes/global/'
+cl_variableAttributesPath='../../../INSTALL/intel/param/attributes/variable/'
+cl_dimensionsPath='../../../INSTALL/intel/param/dimensions/'
+/

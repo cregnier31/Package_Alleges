@@ -1,0 +1,24 @@
+&nb_att
+     il_nbatt = 10
+     cl_varname = 'PO4'
+/
+long_name          = 
+Mole Concentration of Phosphate in Sea Water
+standard_name      = 
+mole_concentration_of_phosphate_in_sea_water
+units              = 
+mmol/m^3
+unit_long          =
+millimoles of Phosphate per cubic meter
+_FillValue         =
+fillvalue
+add_offset         =
+offsetvalue
+scale_factor       =
+scalevalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+cell_methods       =
+area: mean

@@ -1,0 +1,21 @@
+&nb_att
+    il_nbatt = 9
+/
+long_name          = 
+Temperature transport classes
+standard_name      = 
+sea_water_potential_temperature
+units              = 
+K
+unit_long          = 
+Kelvin
+comment            = 
+by not applying add_offset, values are readable in degrees Celsius
+add_offset         = 
+273.15
+positive           =
+down
+_FillValue         =
+fillvalue
+axis               =
+Z

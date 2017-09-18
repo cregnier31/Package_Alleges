@@ -1,0 +1,16 @@
+&nb_att
+    il_nbatt = 6
+    cl_varname = 'classes'
+/
+missing_value      =
+missvalue
+standard_name      =
+sea_water_sigma_theta
+units              = 
+kg m-3
+positive           =
+down
+long_name          = 
+Density transport classes
+axis               =
+Z

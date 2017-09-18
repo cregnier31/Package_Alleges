@@ -1,0 +1,18 @@
+&nb_att
+    il_nbatt = 7
+    cl_varname= 'time'
+/
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+calendar           = 
+gregorian
+long_name          = 
+validity time
+standard_name      = 
+time
+units              = 
+hours since 1950-01-01 00:00:00
+axis               =
+T

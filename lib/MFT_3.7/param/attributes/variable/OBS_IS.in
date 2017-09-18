@@ -1,0 +1,20 @@
+&nb_att
+    il_nbatt = 8
+    cl_varname = 'sla_obs'
+/
+long_name          = 
+observed sea level height anomaly
+standard_name      = 
+sea_surface_elevation
+units              = 
+m
+unit_long          = 
+Meters
+missing_value      =
+missvalue
+_FillValue         =
+fillvalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue

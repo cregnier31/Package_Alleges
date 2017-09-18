@@ -1,0 +1,7 @@
+&equival
+     cl_varname_out = 'u'
+     rl_coeff = 1.0
+     rl_min = -20.0
+     rl_max = 20.0
+     rl_offset = 0
+/

@@ -1,0 +1,32 @@
+## macro pour intel 
+# C.REGNIER 2012
+# MFT Directories 
+SRCDIR=.
+MFT_DIR=/home/cregnier/SVN/mo/mo/LIB/LIB_MFT/branches/V3.4
+INC_DIR=${MFT_DIR}/include
+LIB_DIR=${MFT_DIR}/lib
+PARAM_DIR=${MFT_DIR}/param
+
+# Namelist Pre-Processing 
+FICHIER=${MFT_DIR}/src/MIOL_param.F90
+#
+param1=cp_miolParameterPath
+param2=cp_miolParameterFile
+
+# Install Directory  
+INSTALL_DIR=/home/cregnier/LIB/MFT3.4/IBM/
+PARAM_DIR_INSTALL=${INSTALL_DIR}/param
+TMP_NAMELIST=${MFT_DIR}/miolParameterPaths.nml
+NAMELIST=${INSTALL_DIR}/include/miolParameterPaths.nml
+# NETCDF Directory
+NETCDF_DIR=/usr/local/lib/netcdf-3.5.0/LP64
+NETCDF_INC=$(NETCDF_DIR)/include
+
+# Compiling Flags
+FC=xlf90 -qsuffix=cpp=F90 
+FFLAGS= -O3 -g -bnoquiet -qflttrap=overflow:invalid:zerodivide:enable -qextchk -C  -qfree -qsuffix=f=f90 -q64 -qnosave
+AR=ar -rv
+cpp_prefix = '-WF,-D'
+CPP_KEYS=${cpp_prefix}Key_Byte
+
+

@@ -1,0 +1,7 @@
+&equival
+     cl_varname_out = 'v'
+     rl_coeff = 1.0
+     rl_min=-10
+     rl_max=10
+     rl_offset = 0
+/

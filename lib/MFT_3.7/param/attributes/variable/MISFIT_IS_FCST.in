@@ -1,0 +1,15 @@
+&nb_att
+    il_nbatt = 5
+    cl_varname='misfit_IS_fcst'
+/
+long_name          = 
+misfit for altimetric data for the first trajectory
+standard_name      =
+Sla_innovation
+_FillValue         =
+fillvalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+

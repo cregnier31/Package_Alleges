@@ -1,0 +1,28 @@
+&nb_att
+    il_nbatt = 12 
+    cl_varname= 'votkeavt'
+/
+units              = 
+m2/s
+missing_value      =
+missvalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+add_offset         =
+offsetvalue
+scale_factor       =
+scalevalue
+long_name          = 
+Vertical Eddy Diffusivity in log 10
+standard_name      =
+ocean_vertical_eddy_diffusivity_log_10
+short_name         =
+votkeavt
+online_operation   =
+N/A
+axis               =
+TZYX
+associate          =
+associate

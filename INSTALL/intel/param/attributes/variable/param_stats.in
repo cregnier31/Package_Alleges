@@ -1,0 +1,8 @@
+&nb_att
+    il_nbatt = 2
+    cl_varname='param_stats'
+/
+long_name          = 
+name of statistical parameters
+standard_name      = 
+param_stats

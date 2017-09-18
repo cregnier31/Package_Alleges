@@ -1,0 +1,16 @@
+&nb_att
+    il_nbatt = 6
+    cl_varname= 'JULD'
+/
+calendar           = 
+gregorian
+title              = 
+JULD
+long_name          = 
+Julian day (UTC) of the station relative to REFERENCE_DATE_TIME
+standard_name      = 
+Julian_date
+units              = 
+days since 01-01-01 00:00:00 UTC
+time_origin        =
+01-JAN-01 00:00:00

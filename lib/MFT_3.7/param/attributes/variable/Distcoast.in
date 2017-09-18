@@ -1,0 +1,22 @@
+&nb_att
+     il_nbatt = 9
+     cl_varname = 'Distcoast'
+/
+long_name          = 
+Distcoast in 2D
+standard_name      = 
+Distance_to_the_coast
+units              = 
+Km
+unit_long          =
+Kilometers
+_FillValue         =
+fillvalue
+add_offset         =
+offsetvalue
+scale_factor       =
+scalevalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue

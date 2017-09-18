@@ -1,0 +1,21 @@
+&nb_att
+    il_nbatt = 8
+    cl_varname='ANA_PSAL'
+/
+long_name          = 
+MERCATOR-GLOBAL SALINITY
+_FillValue         =
+fillvalue
+units              = 
+psu
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+comment            =
+Nowcast profile
+C_format           = 
+%9.3f
+FORTRAN_format     = 
+F9.3
+

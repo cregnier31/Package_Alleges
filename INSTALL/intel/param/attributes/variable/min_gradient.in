@@ -1,0 +1,12 @@
+&nb_att
+    il_nbatt = 4
+    cl_varname = 'min_gradient'
+/
+long_name          = 
+minimum of gradient
+standard_name      = 
+min_gradient
+units              = 
+kg m-4
+_FillValue         =
+fillvalue

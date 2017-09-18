@@ -1,0 +1,16 @@
+&nb_att
+    il_nbatt = 6
+    cl_varname = 'depth_class'
+/
+long_name          = 
+Depth transport classes
+standard_name      = 
+depth
+units              = 
+m
+positive           =
+down
+_FillValue         =
+fillvalue
+axis               =
+Z

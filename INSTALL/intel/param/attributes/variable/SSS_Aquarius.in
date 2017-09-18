@@ -1,0 +1,24 @@
+&nb_att
+     il_nbatt = 10
+     cl_varname = 'sss'
+/
+long_name          = 
+Sea Surface Salinity
+standard_name      = 
+sea_surface_salinity_aquarius_L3m
+units              = 
+1e-3
+unit_long         =
+Practical Salinity Unit
+_FillValue         =
+fillvalue
+add_offset         =
+offsetvalue
+scale_factor       =
+scalevalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+cell_methods       =
+area: mean

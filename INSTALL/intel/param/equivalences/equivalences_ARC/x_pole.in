@@ -1,0 +1,8 @@
+&equival
+     cl_varname_out = 'x_kmbis'
+     rl_coeff = 1.0
+     rl_min = 1
+     rl_max = 792
+     rl_offset = 0
+ /
+

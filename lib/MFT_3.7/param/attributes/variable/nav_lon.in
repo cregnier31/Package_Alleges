@@ -1,0 +1,14 @@
+&nb_att
+    il_nbatt = 5
+    cl_varname = 'nav_lon'
+/
+units              = 
+degrees_east
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+long_name          = 
+Longitude
+nav_model          = 
+Default grid

@@ -1,0 +1,12 @@
+&nb_att
+    il_nbatt = 4
+    cl_varname = 'max_temp'
+/
+long_name          = 
+maximum of temperature in the water column
+standard_name      = 
+max_temp
+units              = 
+°C
+_FillValue         =
+fillvalue

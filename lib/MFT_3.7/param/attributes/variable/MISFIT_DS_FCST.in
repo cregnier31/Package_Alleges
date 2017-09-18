@@ -1,0 +1,15 @@
+&nb_att
+    il_nbatt = 5
+    cl_varname='misfit_DS_fcst'
+/
+long_name          = 
+misfit for direct scalar var for the first trajectory
+standard_name      =
+DS_innovation
+_FillValue         =
+fillvalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+

@@ -1,0 +1,15 @@
+&nb_att
+    il_nbatt = 6
+/
+long_name          = 
+Density transport classes
+standard_name      = 
+sea_water_sigma_theta
+units              = 
+kg m-3
+positive           =
+down
+_FillValue         =
+fillvalue
+axis               =
+Z

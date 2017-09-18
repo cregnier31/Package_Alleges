@@ -1,0 +1,8 @@
+&nb_att
+    il_nbatt = 2
+    cl_varname='setid_VP'
+/
+long_name          = 
+id of DUPVP data
+standard_name      = 
+setid

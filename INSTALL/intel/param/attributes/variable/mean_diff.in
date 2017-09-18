@@ -1,0 +1,16 @@
+&nb_att
+    il_nbatt = 6
+    cl_varname='mean_diff'
+/
+long_name          = 
+mean_diff
+standard_name      = 
+mean_diff
+missing_value      =
+missvalue
+_FillValue         =
+fillvalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue

@@ -1,0 +1,24 @@
+&nb_att
+     il_nbatt = 10
+     cl_varname = 'Fedep'
+/
+long_name          = 
+Irondep
+standard_name      = 
+Fedep
+units              = 
+molFe/m2
+unit_long          =
+molFe/m2
+_FillValue         =
+fillvalue
+add_offset         =
+offsetvalue
+scale_factor       =
+scalevalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+cell_methods       =
+area: mean

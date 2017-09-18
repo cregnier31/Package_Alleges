@@ -1,0 +1,22 @@
+&nb_att
+    il_nbatt = 9
+    cl_varname = 'polar_stereographic'
+/
+grid_mapping_name     = 
+polar_stereographic
+straight_vertical_longitude_from_pole=
+straight_vertical_longitude_from_pole
+latitude_of_projection_origin =
+latitude_of_projection_origin
+standard_parallel=
+standard_parallel
+false_easting = 
+false_easting
+false_northing = 
+false_northing
+semi_major_axis=
+semi_major_axis
+semi_minor_axis=
+semi_minor_axis
+proj4_string =
+proj4_string

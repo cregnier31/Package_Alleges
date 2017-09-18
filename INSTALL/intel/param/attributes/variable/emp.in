@@ -1,0 +1,25 @@
+&nb_att
+     il_nbatt = 10
+     cl_varname = 'emp'
+/
+long_name          = 
+Water flux
+standard_name      = 
+water_flux_into_ocean
+units              = 
+kg m-2 s-1
+unit_long          = 
+Kilogram per square meter per second
+add_offset         =
+offsetvalue
+scale_factor       =
+scalevalue
+_FillValue         =
+fillvalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+cell_methods       =
+area: mean
+

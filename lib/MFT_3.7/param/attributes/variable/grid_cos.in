@@ -1,0 +1,8 @@
+&nb_att
+    il_nbatt = 2 
+    cl_varname='grid_cos'
+/
+short_name         =
+grid_cos
+axis               =
+YX

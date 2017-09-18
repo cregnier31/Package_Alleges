@@ -1,0 +1,15 @@
+&nb_att
+    il_nbatt = 6
+/
+long_name          = 
+Salinity transport classes
+standard_name      = 
+sea_water_salinity
+units              = 
+1e-3
+positive           =
+down
+_FillValue         =
+fillvalue
+axis               =
+Z

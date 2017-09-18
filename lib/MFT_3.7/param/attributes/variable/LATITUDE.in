@@ -1,0 +1,14 @@
+&nb_att
+    il_nbatt = 5
+    cl_varname='LATITUDE'
+/
+units              = 
+degrees_north
+unit_long          = 
+Degrees North
+long_name          = 
+Latitude
+standard_name      = 
+latitude of the profile
+axis               =
+Y

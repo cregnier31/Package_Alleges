@@ -1,0 +1,47 @@
+# Macro pour intel 
+## C.REGNIER Octobre 2009
+# Compilo
+F90=ifort
+F90PT=$(F90) -cpp
+## FLAGS
+## Debug
+DEBUG=-g -traceback -check bounds -ftrapuv -check uninit -check pointers
+#FFLAGS=-O0 $(DEBUG) -convert big_endian
+FFLAGS=-O3 -convert big_endian 
+LD_FLAGS=-O3 -convert big_endian
+SRCDIR=.
+# MFT
+MFT_DIR=/home/cregnier/DEV/My_git/Package_alleges/lib/MFT_3.7
+MFT_INC=${MFT_DIR}/include
+MFT_LIB=${MFT_DIR}/lib
+LIB_MFT=libmft.a
+LIBMFT=mft
+INC_DIR=${MFT_DIR}/include
+LIB_DIR=${MFT_DIR}/lib
+PARAM_DIR=${MFT_DIR}/param
+FICHIER=${MFT_DIR}/src/MIOL_param.F90
+FICHIER2=${MFT_DIR}/src/MCAL_gsw_oceanographic_toolbox.F90
+param1=cp_miolParameterPath
+param2=cp_miolParameterFile
+INSTALL_DIR=/home/cregnier/DEV/Package_alleges/INSTALL/intel
+PARAM_DIR_INSTALL=${INSTALL_DIR}/param
+TMP_NAMELIST=${MFT_DIR}/miolParameterPaths.nml
+NAMELIST=${INSTALL_DIR}/include/miolParameterPaths.nml
+#
+#
+## ARCHIVE LIBRARY
+AR=ar -rv
+## NETCDF
+LIBNETCDFC=netcdf
+LIBNETCDFF=netcdff
+NCDF_INC = $(NETCDF_INC)
+INCLUDE_NC =  -I$(NCDF_INC)
+NCDF_LIB = -L$(NETCDF_LIB) -l$(LIBNETCDFF)  -l$(LIBNETCDFC) -L$(HDF5_LIB)
+##
+paramPath=${MFT_DIR}/param
+INCLUDE= -I${NETCDF_INC} -I${MFT_INC}
+LIBRARY=-L$(MFT_LIB) -lmft $(NCDF_LIB) 
+
+##
+CPP_KEYS= -DKey_Byte 
+MAKE=gmake

@@ -1,0 +1,25 @@
+&nb_att
+     il_nbatt = 10
+     cl_varname = 'uo'
+/
+long_name          = 
+Eastward velocity
+standard_name      = 
+eastward_sea_water_velocity
+units              = 
+m s-1
+unit_long          =
+Meters per second
+_FillValue         =
+fillvalue
+add_offset         =
+offsetvalue
+scale_factor       =
+scalevalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+cell_methods       =
+area: mean
+

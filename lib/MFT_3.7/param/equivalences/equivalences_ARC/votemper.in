@@ -1,0 +1,7 @@
+&equival
+     cl_varname_out = 'temperature'
+     rl_coeff =  1.0
+     rl_min = -3.0
+     rl_max = 45.0
+     rl_offset = 273.15
+ /

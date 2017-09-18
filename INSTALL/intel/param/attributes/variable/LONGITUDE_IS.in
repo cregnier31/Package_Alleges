@@ -1,0 +1,14 @@
+&nb_att
+    il_nbatt = 5
+    cl_varname ='longitude_IS'
+/
+units              = 
+degrees_east
+unit_long          = 
+Degrees East
+long_name          = 
+Longitude of SLA data
+standard_name      = 
+longitude
+axis               =
+X

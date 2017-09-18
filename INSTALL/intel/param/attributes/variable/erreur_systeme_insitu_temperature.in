@@ -1,0 +1,28 @@
+&nb_att
+     il_nbatt = 12
+     cl_varname = 'T_system_err'
+/
+long_name          = 
+In Situ Temperature System Error
+standard_name      = 
+sea_water_temperature
+units              = 
+degC
+unit_long          =
+Degrees Celsius
+add_offset         =
+offsetvalue
+scale_factor       =
+scalevalue
+_FillValue         =
+fillvalue
+flag_values        =
+flagvalues
+flag_meanings      =
+no value
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+cell_methods       =
+lon: lat: standard deviation time: mean

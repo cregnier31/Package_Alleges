@@ -1,0 +1,14 @@
+&nb_att
+    il_nbatt = 5
+    cl_varname ='mean_time_monthly'
+/
+long_name          = 
+mean time monthly
+standard_name      = 
+mean_time_monthly
+valid_min          =
+minvalue
+valid_max          =
+maxvalue
+_FillValue         =
+fillvalue

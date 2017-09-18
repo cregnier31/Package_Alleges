@@ -1,0 +1,28 @@
+&nb_att
+     il_nbatt = 12
+     cl_varname = 'temperature'
+/
+long_name          = 
+Temperature
+standard_name      = 
+sea_water_potential_temperature
+units              = 
+K
+unit_long          =
+Kelvin
+_FillValue         =
+fillvalue
+add_offset         =
+offsetvalue
+scale_factor       =
+scalevalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+grid_mapping       =
+polar_stereographic
+coordinates        =
+longitude latitude
+cell_methods       =
+area: mean

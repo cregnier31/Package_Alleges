@@ -1,0 +1,15 @@
+&nb_att
+    il_nbatt = 6
+/
+long_name          = 
+standard deviation
+standard_name      = 
+standard_deviation
+missing_value      =
+missvalue
+_FillValue         =
+fillvalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue

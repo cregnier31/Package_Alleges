@@ -1,0 +1,6 @@
+&miolParameterPaths
+cl_equivalencesPath='/home/cregnier/DEV/Package_alleges/INSTALL/intel/param/equivalences/'
+cl_globalAttributesPath='/home/cregnier/DEV/Package_alleges/INSTALL/intel/param/attributes/global/'
+cl_variableAttributesPath='/home/cregnier/DEV/Package_alleges/INSTALL/intel/param/attributes/variable/'
+cl_dimensionsPath='/home/cregnier/DEV/Package_alleges/INSTALL/intel/param/dimensions/'
+/

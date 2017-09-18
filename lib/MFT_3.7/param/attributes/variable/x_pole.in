@@ -1,0 +1,6 @@
+&nb_att
+    il_nbatt = 1
+    cl_varname='x_pole'
+/
+long_name          = 
+x-coordinates in Cartesian system

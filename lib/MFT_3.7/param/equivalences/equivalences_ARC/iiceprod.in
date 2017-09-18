@@ -1,0 +1,7 @@
+&equival
+     cl_varname_out = 'htndncyice_ARC'
+     rl_coeff = 1.0
+     rl_min = -0.01
+     rl_max =  0.01
+     rl_offset = 0
+/

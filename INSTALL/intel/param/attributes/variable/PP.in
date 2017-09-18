@@ -1,0 +1,24 @@
+&nb_att
+     il_nbatt = 10
+     cl_varname = 'PP'
+/
+long_name          = 
+Net Primary Production of Biomass expressed as Carbon
+standard_name
+net_primary_production_of_biomass_expressed_as_carbon_per_unit_volume_in_sea_water
+units              = 
+g/m^3/day
+unit_long          =
+grams of Carbon per cubic meter per day
+_FillValue         =
+fillvalue
+add_offset         =
+offsetvalue
+scale_factor       =
+scalevalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+cell_methods       =
+area: mean

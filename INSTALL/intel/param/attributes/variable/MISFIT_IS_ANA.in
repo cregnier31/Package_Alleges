@@ -1,0 +1,15 @@
+&nb_att
+    il_nbatt = 5
+    cl_varname='misfit_IS_ana'
+/
+long_name          = 
+misfit for altimetric data for the second trajectory
+standard_name      =
+Sla_residual
+_FillValue         =
+fillvalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+

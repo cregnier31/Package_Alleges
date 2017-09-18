@@ -1,0 +1,12 @@
+&nb_att
+    il_nbatt = 4
+    cl_varname='Hitice'
+/
+long_name          = 
+Number_of_hit_ice
+_FillValue         =
+fillvalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue

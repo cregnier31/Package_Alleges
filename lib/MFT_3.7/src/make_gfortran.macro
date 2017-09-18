@@ -1,0 +1,30 @@
+## macro pour gfortran 
+# C.REGNIER 2010
+# MFT Directories 
+SRCDIR=.
+MFT_DIR=/home/mercator/versions64/mft/px/V3.2  # à changer indiquer ton chemin
+INC_DIR=${MFT_DIR}/include
+LIB_DIR=${MFT_DIR}/lib
+PARAM_ORIG_DIR=${MFT_DIR}/param
+
+# Namelist Pre-Processing 
+##
+FICHIER=${MFT_DIR}/src/MIOL_param.F90
+NAMELIST=${INC_DIR}/miolParameterPaths.nml
+#
+param1=cp_miolParameterPath
+param2=cp_miolParameterFile
+
+# Install Directory  
+INSTALL_DIR=${MFT_DIR}
+PARAM_DIR=${MFT_DIR}/param
+
+# NETCDF Directory
+#NETCDF_DIR=$(NETCDF_DIR)
+#NETCDF_INC=$(NETCDF_DIR)/include
+
+# Compiling Flags
+FC=gfortran
+FFLAGS=-O3 -fconvert=big-endian -I${NETCDF_INC}
+AR=ar -rv
+

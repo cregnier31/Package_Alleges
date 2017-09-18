@@ -1,0 +1,22 @@
+&nb_att
+     il_nbatt = 9
+     cl_varname = 'biais'
+/
+long_name          = 
+biais
+standard_name      = 
+
+units              = 
+
+unit_long          =
+
+_FillValue         =
+fillvalue
+add_offset         =
+offsetvalue
+scale_factor       =
+scalevalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue

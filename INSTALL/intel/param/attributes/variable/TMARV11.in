@@ -1,0 +1,15 @@
+&nb_att
+    il_nbatt = 5
+    cl_varname = 'TMARV11'
+/
+_FillValue         =
+fillvalue
+long_name          = 
+Monthly ARIVO temperature 2011
+units              = 
+degree_Celsius
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+

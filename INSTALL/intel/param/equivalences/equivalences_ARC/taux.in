@@ -1,0 +1,7 @@
+&equival
+     cl_varname_out = 'taux'
+     rl_coeff = 1.0
+     rl_min = -2
+     rl_max = 2
+     rl_offset = 0
+/

@@ -1,0 +1,91 @@
+votemper(Temp)
+   rl_min = -3.0
+   rl_max = 45.0
+
+vosaline(sal)
+   rl_min = 0.0
+   rl_max = 50.0
+
+vozocrtx(u)
+   rl_min=-10
+   rl_max=10
+
+vomecrty(v) 
+   rl_min=-10
+   rl_max=10
+
+votkeavt (kz en log)
+   rl_min=-7
+   rl_max=-1
+
+vokzln10 (kz en log 10)
+   rl_min=-7
+   rl_max=-1
+
+soceshwf (qsr)
+   rl_min=0
+   rl_max=1500
+
+sohefldo (qtot)
+   rl_min = -2000
+   rl_max = 2000
+
+sowaflup(emp)
+   rl_min = -0.1
+   rl_max = 0.1
+
+sozotaux (taux)
+   rl_min = -5
+   rl_max = 5
+
+sometauy (tauy)
+   rl_min = -5
+   rl_max = 5
+
+somxl010(mlp)
+   rl_min = 0
+   rl_max = 5000
+
+somxlt02(mld)
+   rl_min = 0
+   rl_max = 5000
+
+sossheig (ssh)
+   rl_min = -10.0
+   rl_max = 10.0
+
+iicevelu (uice)
+   rl_min = -1
+   rl_max = 1
+
+iicevelv (vice)
+   rl_min = -1
+   rl_max = 1
+
+ileadfra (fice)
+   rl_min = 0
+   rl_max = 1
+
+iicethic (hice)
+   rl_min = 0
+   rl_max = 12
+
+isnowthi (hsnow)
+   rl_min=0
+   rl_max=50
+
+iicestru (tauxice)
+   rl_min = -10.0
+   rl_max = 10.0
+
+iicestrv (tauyice)
+   rl_min = -10.0
+   rl_max = 10.0
+
+iiceprod (htndncyice)
+   rl_min = -0.01
+   rl_max = 0.01
+
+qtotair 
+   rl_min=-2000
+   rl_max=2000

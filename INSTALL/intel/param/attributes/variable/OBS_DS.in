@@ -1,0 +1,14 @@
+&nb_att
+    il_nbatt = 5
+    cl_varname = 'DS_obs'
+/
+long_name          = 
+Direct scalar observation
+missing_value      =
+missvalue
+_FillValue         =
+fillvalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue

@@ -1,0 +1,7 @@
+&equival
+     cl_varname_out = 'vice'
+     rl_coeff = 1.0
+     rl_min = -1.0
+     rl_max = 1.0
+     rl_offset = 0
+/

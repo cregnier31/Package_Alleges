@@ -1,0 +1,24 @@
+&nb_att
+     il_nbatt = 10
+     cl_varname = 'Kg'
+/
+long_name          = 
+Gaztransfer
+standard_name      = 
+Kg
+units              = 
+mol/m2/s
+unit_long          =
+mol/m2/s
+_FillValue         =
+fillvalue
+add_offset         =
+offsetvalue
+scale_factor       =
+scalevalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+cell_methods       =
+area: mean

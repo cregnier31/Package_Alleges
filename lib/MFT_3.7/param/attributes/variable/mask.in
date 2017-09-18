@@ -1,0 +1,9 @@
+&nb_att
+    il_nbatt = 2
+    cl_varname = 'mask'
+
+/
+long_name          = 
+mask
+standard_name      = 
+mask

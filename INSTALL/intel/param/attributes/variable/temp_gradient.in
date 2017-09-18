@@ -1,0 +1,12 @@
+&nb_att
+    il_nbatt = 4
+    cl_varname = 'vtemperature_grandient'
+/
+long_name          = 
+vertical temperature gradient
+standard_name      = 
+vtemperature_gradient
+units              = 
+°C m-1
+_FillValue         =
+fillvalue

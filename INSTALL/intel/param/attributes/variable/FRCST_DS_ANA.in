@@ -1,0 +1,19 @@
+&nb_att
+    il_nbatt = 6
+    cl_varname='second_frcst_DS'
+/
+long_name          = 
+Forecast in DS var for the second trajectory
+standard_name      =
+Guess_second_trajectory
+_FillValue         =
+fillvalue
+units              = 
+degree_Celsius
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+comment            = 
+forecast variable 
+

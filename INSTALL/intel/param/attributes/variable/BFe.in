@@ -1,0 +1,24 @@
+&nb_att
+     il_nbatt = 10
+     cl_varname = 'BFe'
+/
+long_name          = 
+Big Fe particles Concentration
+standard_name      = 
+BFe
+units              = 
+umol/L
+unit_long          =
+micromols per liter
+_FillValue         =
+fillvalue
+add_offset         =
+offsetvalue
+scale_factor       =
+scalevalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+cell_methods       =
+area: mean

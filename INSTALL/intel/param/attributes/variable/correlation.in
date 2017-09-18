@@ -1,0 +1,14 @@
+&nb_att
+    il_nbatt = 5
+    cl_varname= 'correlation'
+/
+long_name          = 
+correlation
+standard_name      = 
+correlation
+_FillValue         =
+fillvalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue

@@ -1,0 +1,29 @@
+&nb_att
+    il_nbatt = 12
+    cl_varname = 'tauyice'
+/
+long_name          = 
+Y wind stress on ice
+standard_name      = 
+sea_ice_downward_y_stress_where_sea_ice
+units              =
+Pa
+unit_long          = 
+Pascal
+add_offset         =
+offsetvalue
+scale_factor       =
+scalevalue
+_FillValue         =
+fillvalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+grid_mapping       =
+polar_stereographic
+coordinates        =
+longitude latitude
+cell_methods       =
+area: mean where sea_ice
+

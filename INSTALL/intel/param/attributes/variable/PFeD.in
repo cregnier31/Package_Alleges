@@ -1,0 +1,24 @@
+&nb_att
+     il_nbatt = 10
+     cl_varname = 'PFeD'
+/
+long_name          = 
+PFediatoms
+standard_name      = 
+PFeD
+units              = 
+molFe/m3
+unit_long          =
+molFe/m3
+_FillValue         =
+fillvalue
+add_offset         =
+offsetvalue
+scale_factor       =
+scalevalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+cell_methods       =
+area: mean

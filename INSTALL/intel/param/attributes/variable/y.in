@@ -1,0 +1,6 @@
+&nb_att
+    il_nbatt = 1
+    cl_varname = 'y'
+/
+long_name          = 
+y-coordinates in Cartesian system

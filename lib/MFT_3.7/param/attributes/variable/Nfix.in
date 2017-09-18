@@ -1,0 +1,24 @@
+&nb_att
+     il_nbatt = 10
+     cl_varname = 'Nfix'
+/
+long_name          = 
+NitrogenFix
+standard_name      = 
+Nfix
+units              = 
+molN/m2
+unit_long          =
+molN/m2
+_FillValue         =
+fillvalue
+add_offset         =
+offsetvalue
+scale_factor       =
+scalevalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+cell_methods       =
+area: mean

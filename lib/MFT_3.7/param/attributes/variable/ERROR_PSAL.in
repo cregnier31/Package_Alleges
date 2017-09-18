@@ -1,0 +1,15 @@
+&nb_att
+    il_nbatt = 5
+    cl_varname='error_psal'
+/
+long_name          = 
+psal error
+_FillValue         =
+fillvalue
+units              = 
+degree_Celsius
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
+

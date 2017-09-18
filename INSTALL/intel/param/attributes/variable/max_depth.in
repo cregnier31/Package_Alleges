@@ -1,0 +1,12 @@
+&nb_att
+    il_nbatt = 4
+    cl_varname = 'max_depth'
+/
+long_name          = 
+maximum of depth
+standard_name      = 
+max_depth
+units              = 
+m
+_FillValue         =
+fillvalue

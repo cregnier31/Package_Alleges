@@ -1,0 +1,14 @@
+&nb_att
+    il_nbatt = 5
+    cl_varname ='rms_diff_cumul'
+/
+long_name          = 
+root mean square diff cumul
+standard_name      = 
+root_mean_square_diff_cumul
+valid_min          =
+minvalue
+valid_max          =
+maxvalue
+_FillValue         =
+fillvalue

@@ -1,0 +1,12 @@
+&nb_att
+    il_nbatt = 4
+    cl_varname = 'nb_inverse_temp'
+/
+long_name          = 
+number of temp inversion in the water column
+standard_name      = 
+nb_inverse_temp
+units              = 
+none
+_FillValue         =
+fillvalue

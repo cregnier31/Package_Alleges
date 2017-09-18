@@ -1,0 +1,12 @@
+&nb_att
+    il_nbatt = 4
+    cl_varname='Miss_timeserie'
+/
+long_name          = 
+Number_of_miss_values_in_timeserie
+_FillValue         =
+fillvalue
+valid_min          = 
+minvalue
+valid_max          = 
+maxvalue
