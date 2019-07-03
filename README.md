@@ -2,7 +2,9 @@
 
 ## 1. Installation du code
 
-Installer la dépendance suivante :
+Le code nécessite l'intallation de code fortran compilés avec intel ou gfortran
+
+Tout d'abord il faut installer la dépendance suivante:
 * Librairie MFT
 
 ### Description de la lib MFT
@@ -23,10 +25,14 @@ cd src
 make clean && make
 ```
 
-## 2. Programme de Test
+## 2. Programme de conversion
 
-Aller dans le répertoire exe et lancer le code python 
+Aller dans le répertoire exe et lancer le code python Convert_nc.py 
+
+En entrée le programme prend 2 arguments : le nom du fichier à convertir et la résolution du fichier d'entrée par exemple: 
+
 ```bash
-python Convert_nc.py filename
+python Convert_nc.py filename orca12
 ```
+Le programme de lancement python ne nécessite pas de module particulier
 
