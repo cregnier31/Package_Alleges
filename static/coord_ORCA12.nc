@@ -1,0 +1,1 @@
+/homelocal/cregnier/DATA/static/coord_PSY4.nc
