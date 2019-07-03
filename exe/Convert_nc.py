@@ -4,16 +4,22 @@
 import subprocess,shlex 
 import sys,os
 
-if len(sys.argv) != 2 :
-    print 'Usage: Convert_nc.py <filename> '
-    print 'example: python Convert_nc.py TN.B.d20130925.end.50.0'
-    print 'example: python Convert_nc.py TN.B.d20130925.end.75.0'
+if len(sys.argv) != 3 :
+    print 'Usage: Convert_nc.py <filename> <resol>'
+    print 'example: python Convert_nc.py TN.B.d20130925.end.50.0 orca12'
+    print 'example: python Convert_nc.py TN.B.d20130925.end.75.0 orca025'
     sys.exit(1)
 else :
     filename=sys.argv[1]
+    typeout=sys.argv[2]
+if typeout == "orca12":
+    meshfile="../static/coord_ORCA12.nc"
+elif typeout == "orca025":
+    meshfile="../static/coord_ORCA25.nc"
+else:
+    print('Typeout not known')
+    print('orca12 , orca025...')
 
-#meshfile="/home/cregnier/DEV/Read_ALLEGES/statics/coord_PSY4.nc"
-meshfile="/home/cregnier/DEV/Read_ALLEGES/statics/coord_PSY3.nc"
 resol="3D"
 sampling="3"
 filename_tmp=filename.split('.')[0]
@@ -35,7 +41,7 @@ elif filename_tmp.startswith('TN'):
     varname="temperature"
 else: 
     varname=filename_tmp
-print varname,resol,meshfile,sampling
+print (varname,resol,meshfile,sampling)
 SUBEXE="../bin/read_write_lightout.exe"
 code_launch='%s -i %s -d %s -v %s -m %s -s %s' %(SUBEXE,filename,resol,varname,meshfile,sampling)
 print code_launch
